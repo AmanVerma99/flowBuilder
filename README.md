@@ -6,7 +6,7 @@ A modern, extensible chatbot flow builder built with **React** and **React Flow*
 
 ## Demo
 
-🔗 **Deployment Link:** [Coming Soon - Add your deployment URL here]
+🔗 **Deployment Link:** [https://flow-builder-steel.vercel.app/]
 
 ---
 
