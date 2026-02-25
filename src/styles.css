@@ -5,9 +5,10 @@
 }
 html,body,#root{height:100%;margin:0}
 .app-root{height:100vh;background:var(--bg);font-family:Arial,Helvetica,sans-serif}
-.topbar{display:flex;justify-content:flex-end;padding:12px 18px;background:#fff;border-bottom:1px solid #eee;position:relative}
+.topbar{display:flex;justify-content:flex-end;gap:12px;padding:12px 18px;background:#fff;border-bottom:1px solid #eee;position:relative}
 .error-banner{position:absolute;left:50%;transform:translateX(-50%);top:8px;background:#ffd6d6;color:#7a0b0b;padding:6px 12px;border-radius:8px;font-weight:600}
 .save-btn{background:#2b6be6;color:white;border:none;padding:8px 12px;border-radius:6px;cursor:pointer}
+.clear-btn{background:#6b7280;color:white;border:none;padding:8px 12px;border-radius:6px;cursor:pointer}
 .main{display:flex;height:calc(100vh - 56px)}
 .canvas{flex:1;background:linear-gradient(180deg,#fff,#f6fbff);}
 .sidepanel{width:320px;border-left:1px solid #eee;background:var(--panel);padding:12px}
